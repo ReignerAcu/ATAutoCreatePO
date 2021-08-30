@@ -1,0 +1,13 @@
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\bin\Debug\ATAutoCreatePO.dll
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\bin\Debug\ATAutoCreatePO.pdb
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\bin\Debug\PX.Common.dll
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\bin\Debug\PX.Common.Std.dll
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\bin\Debug\PX.CS.Contracts.dll
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\bin\Debug\PX.Data.dll
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\bin\Debug\PX.Objects.dll
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\bin\Debug\Renci.SshNet.dll
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\obj\Debug\ATAutoCreatePO.csproj.CoreCompileInputs.cache
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\obj\Debug\ATAutoCreatePO.csproj.CopyComplete
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\obj\Debug\ATAutoCreatePO.dll
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\obj\Debug\ATAutoCreatePO.pdb
+E:\sourcecode\acutrive\ATAutoCreatePO\ATAutoCreatePO\obj\Debug\ATAutoCreatePO.csprojAssemblyReference.cache
